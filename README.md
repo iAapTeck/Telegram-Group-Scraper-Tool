@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iAapTeck/Telegram-Group-Scraper-Tool/master/.image/20191203_205322.jpg" width="470" height="150">
+  <img src="https://raw.githubusercontent.com/iAapTeck/Telegram-Group-Scraper-Tool/master/image/20191203_205322.jpg" width="470" height="150">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
